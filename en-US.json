@@ -1,0 +1,128 @@
+{
+  "app.bookademobutton": {
+    "key": {
+      "plural": false,
+      "max_characters_allowed": 0,
+      "description": null
+    },
+    "translations": [
+      {
+        "locale": "en-US",
+        "locale_code": "en-US",
+        "content": "Book a demo →"
+      }
+    ]
+  },
+  "app.bookademonav": {
+    "key": {
+      "plural": false,
+      "max_characters_allowed": 0,
+      "description": null
+    },
+    "translations": [
+      {
+        "locale": "en-US",
+        "locale_code": "en-US",
+        "content": "Book a demo "
+      }
+    ]
+  },
+  "app.company": {
+    "key": {
+      "plural": false,
+      "max_characters_allowed": 0,
+      "description": null
+    },
+    "translations": [
+      {
+        "locale": "en-US",
+        "locale_code": "en-US",
+        "content": "Company"
+      }
+    ]
+  },
+  "app.description1": {
+    "key": {
+      "plural": false,
+      "max_characters_allowed": 0,
+      "description": null
+    },
+    "translations": [
+      {
+        "locale": "en-US",
+        "locale_code": "en-US",
+        "content": "Benchmark pay, price, jobs, manage pay ranges, run merit cycles, and communicate total rewards on a complete compensation intelligence platform powered by AI."
+      }
+    ]
+  },
+  "app.insights": {
+    "key": {
+      "plural": false,
+      "max_characters_allowed": 0,
+      "description": null
+    },
+    "translations": [
+      {
+        "locale": "en-US",
+        "locale_code": "en-US",
+        "content": "Insights"
+      }
+    ]
+  },
+  "app.partners": {
+    "key": {
+      "plural": false,
+      "max_characters_allowed": 0,
+      "description": null
+    },
+    "translations": [
+      {
+        "locale": "en-US",
+        "locale_code": "en-US",
+        "content": "Partners"
+      }
+    ]
+  },
+  "app.products": {
+    "key": {
+      "plural": false,
+      "max_characters_allowed": 0,
+      "description": null
+    },
+    "translations": [
+      {
+        "locale": "en-US",
+        "locale_code": "en-US",
+        "content": "Products"
+      }
+    ]
+  },
+  "app.sign_in": {
+    "key": {
+      "plural": false,
+      "max_characters_allowed": 0,
+      "description": null
+    },
+    "translations": [
+      {
+        "locale": "en-US",
+        "locale_code": "en-US",
+        "content": "Sign in"
+      }
+    ]
+  },
+  "app.tagline": {
+    "key": {
+      "plural": false,
+      "max_characters_allowed": 0,
+      "description": null
+    },
+    "translations": [
+      {
+        "locale": "en-US",
+        "locale_code": "en-US",
+        "content": "Your compensation intelligence platform"
+      }
+    ]
+  }
+}
