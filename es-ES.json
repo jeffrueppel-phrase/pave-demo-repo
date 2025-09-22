@@ -8,5 +8,6 @@
   "app.partners": "Socios",
   "app.products": "Productos",
   "app.sign_in": "Inicia sesión",
-  "app.tagline": "Su plataforma de inteligencia de compensación"
+  "app.tagline": "Su plataforma de inteligencia de compensación",
+  "app.testString1": "Big ol test String"
 }
