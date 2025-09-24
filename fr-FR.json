@@ -12,6 +12,9 @@
   "app.testString_CS": "Service à la clientèle",
   "app.testString_Dog": "Promenade de chien gratuite !",
   "app.testString_Kitten": "Chatons gratuits !",
+  "appr.testString_moreKittens1": "Attention, vous allez devenir un amoureux des chats si vous en avez plus de deux !",
+  "appr.testString_moreKittens2": "Trois chats, c’est trop",
+  "appr.testString_moreKittens3": "Trois chats, c’est beaucoup de nourriture pour chats",
   "appr.testString_morePuppies": "Plus de chiots gratuits!",
   "appr.testString_morePuppies2": "Beaucoup plus de chiots gratuits !"
 }

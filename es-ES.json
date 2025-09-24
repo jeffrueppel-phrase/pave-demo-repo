@@ -12,6 +12,9 @@
   "app.testString_CS": "Atención al cliente",
   "app.testString_Dog": "¡Paseando perros gratis!",
   "app.testString_Kitten": "¡Gatitos gratis!",
+  "appr.testString_moreKittens1": "¡Cuidado, estás convirtiéndote en una persona de gatos si tienes más de 2 gatos!",
+  "appr.testString_moreKittens2": "Tres gatos son demasiados",
+  "appr.testString_moreKittens3": "Tres gatos es mucha comida para gatos.",
   "appr.testString_morePuppies": "Más Cachorros Gratis!",
   "appr.testString_morePuppies2": "¡Muchos más cachorros gratis!"
 }
